@@ -1,0 +1,14 @@
+:root { color-scheme: light; }
+body {
+  margin: 0;
+  background: #f8f5ee;
+  color: #292333;
+  font: 1.125rem/1.65 "Segoe UI", sans-serif;
+}
+main { max-width: 37rem; margin: auto; padding: 8vh 1.5rem; }
+h1, h2 { color: #493064; font-family: Georgia, serif; line-height: 1.15; }
+h1 { margin: 3rem 0 1rem; font-size: clamp(2.8rem, 8vw, 4.5rem); }
+h2 { margin: 2rem 0 .5rem; font-size: 1.6rem; }
+p { margin: .5rem 0; }
+a { color: #57347c; text-underline-offset: .2em; }
+nav { padding-bottom: 1rem; border-bottom: 1px solid #c6bccf; }
